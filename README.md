@@ -5,3 +5,7 @@
 # Практическая работа 2
 
   - [Отчет по ПР2](https://github.com/savvche/distributedsystems/blob/main/practice/PR_2.pdf).
+
+# Практическая работа 3
+
+  - [Отчет по ПР3](https://github.com/savvche/distributedsystems/blob/main/practice/PR_2.pdf).
